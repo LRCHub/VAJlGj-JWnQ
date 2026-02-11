@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "常世の気まぐれ",
+  "base_artist": "koyori(電ポルP)",
+  "createdAt": "2026-02-11T19:37:15.127314Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "常世の気まぐれ",
+      "artist": "koyori(電ポルP)",
+      "has_synced": false,
+      "path": "select/pl_01_常世の気まぐれ_koyori(電ポルP).txt"
+    }
+  ]
+}
